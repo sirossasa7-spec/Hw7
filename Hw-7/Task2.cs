@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Hw_7
+﻿namespace Hw_7
 {
     internal class Task2
     {
